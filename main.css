@@ -17,6 +17,10 @@ p {
   font-size: 1.1rem;
 }
 
+span {
+  color: yellow;
+}
+
 .hide {
   opacity: 0;
 }
