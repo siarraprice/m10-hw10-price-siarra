@@ -1,2 +1,6 @@
 // It is always helpful to use comments in your code!
-"use strict";
+const boils = "212";
+const freezes = "32";
+
+document.getElementById("boiling-temp").innerHTML = boils;
+document.getElementById("freezing-temp").innerHTML = freezes;
