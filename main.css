@@ -22,8 +22,9 @@ span {
 }
 
 .hide {
-  opacity: 0;
+  display: none;
 }
+
 .show {
   opacity: 1;
   transition: opacity 1s;
